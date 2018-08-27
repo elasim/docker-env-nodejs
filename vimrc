@@ -16,7 +16,7 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'tomasiser/vim-code-dark'
 Plugin 'git://github.com/farmergreg/vim-lastplace.git'
-
+Plugin 'editorconfig-vim'
 
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
